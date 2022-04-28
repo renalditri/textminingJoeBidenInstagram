@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Blackwolf1337",
+    "Name": "Chat Bubble update Blackwolf1337",
+    "Description": "Chat bubble.",
+    "InternalName": "ChatBubbleBlackwolf",
+    "AssemblyVersion": "1.4.4",
+    "RepoUrl": "https://github.com/Blackwolf1337/ChatBubbles",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "chat",
+    ],
+    "DalamudApiLevel": 6,
+    "IconUrl": "https://raw.githubusercontent.com/Blackwolf1337/ChatBubbles/main/ChatBubbles/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1650446189,
+    "DownloadCount": 11761,
+    "DownloadLinkInstall": "https://github.com/Blackwolf1337/ChatBubbles/archive/refs/heads/main.zip",
+    "DownloadLinkTesting": "https://github.com/Blackwolf1337/ChatBubbles/archive/refs/heads/main.zip",
+    "DownloadLinkUpdate": "https://github.com/Blackwolf1337/ChatBubbles/archive/refs/heads/main.zip"
+  },
+ ]
